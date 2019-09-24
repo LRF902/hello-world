@@ -15,7 +15,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 /**
  * 注册中心
  *
- * @author Mark sunlightcs@gmail.com
+ * @author Mark sunlightcs@gmail.com。
  * @since 1.0.0
  */
 @SpringBootApplication
